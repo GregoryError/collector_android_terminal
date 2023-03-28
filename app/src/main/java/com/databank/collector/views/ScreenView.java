@@ -7,4 +7,6 @@ import java.util.List;
 public interface ScreenView {
     void showData(List<Parameter> parameters);
     void showError(String msg);
+
+    void onDataReady();
 }

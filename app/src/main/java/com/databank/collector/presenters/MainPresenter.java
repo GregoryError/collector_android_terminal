@@ -55,6 +55,5 @@ public class MainPresenter implements Presentable {
             }
         });
 
-
     }
 }

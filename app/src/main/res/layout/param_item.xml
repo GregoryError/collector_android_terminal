@@ -13,6 +13,7 @@
         android:id="@+id/editTextFilling"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:imeOptions="actionNext"
         tools:hint="Температура воздуха">
 
     </EditText>

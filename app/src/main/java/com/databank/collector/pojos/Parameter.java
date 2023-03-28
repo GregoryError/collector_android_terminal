@@ -2,11 +2,9 @@ package com.databank.collector.pojos;
 
 public class Parameter {
 
-
     private long id;
     private String name;
     private int type_id;
-
 
     public Parameter(int type_id, String name, long id) {
         this.id = id;

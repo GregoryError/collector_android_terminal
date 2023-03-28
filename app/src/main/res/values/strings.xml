@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Collector</string>
+    <string name="send_button">отправить</string>
+    <string name="fill_gaps_label">Заполните следующие поля отчета:</string>
 </resources>

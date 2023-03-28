@@ -11,7 +11,7 @@ public class ApiFactory {
     private static ApiFactory instance;
 
     private static Retrofit retrofit;
-    public static final String BASE_URL = "http://192.168.117.214:80/";
+    public static final String BASE_URL = "http://192.168.117.214/";
 
     private ApiFactory() {
         Gson gson = new GsonBuilder()
